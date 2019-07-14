@@ -47,5 +47,7 @@ if( 1 >0){
 
     }
 }
+\
+
 console.log('yang 2 > 1 bisa jadi salah bro');
 console.log('yayayayayayayayayyangyangya');
